@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SnakeGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SnakeGame_jar</output-path>
+    <root id="archive" name="SnakeGame.jar">
+      <element id="module-output" name="SnakeGame.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.14.1/9141212b8507ab50a45525b545b39d224614528b/log4j-core-2.14.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.14.1/cd8858fbbde69f46bce8db1152c18a43328aae78/log4j-api-2.14.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
